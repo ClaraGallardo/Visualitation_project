@@ -1,4 +1,4 @@
-¡[Brewdog](https://github.com/ClaraGallardo/Visualitation_project/blob/main/image/pack-cervezas-brewdog.jpg)
+[Brewdog logo](https://github.com/ClaraGallardo/Visualitation_project/blob/main/image/BREWDOG-LOGO.png)
 
 ## 🍻 Descripción del Proyecto 🍻
 
