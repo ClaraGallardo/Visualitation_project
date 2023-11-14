@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo realizar un análisis de las ventas anuales de
 
 Información General
 Periodo de Análisis: [2014-2017]
-Empresa: [Makro Wholesale]
+Empresa: [Mako Wholesale]
 
 (https://prod-uk-a.online.tableau.com/#/site/ironhack/workbooks/557467?:origin=card_share_link)
 
