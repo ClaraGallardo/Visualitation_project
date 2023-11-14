@@ -1,5 +1,8 @@
 # Análisis Anual de Ventas - Proyecto Tableau
-[https://github.com/ClaraGallardo/Visualitation_project/blob/main/images/079d7a30-3c69-455f-9f3f-3e5cdd6ae58e_16-9-discover-aspect-ratio_default_0.jpg]
+
+![img](https://github.com/ClaraGallardo/Visualitation_project/blob/main/images/079d7a30-3c69-455f-9f3f-3e5cdd6ae58e_16-9-discover-aspect-ratio_default_0.jpg)
+
+
 ## Descripción del Proyecto
 
 Este proyecto tiene como objetivo realizar un análisis de las ventas anuales de una empresa, utilizando la plataforma Tableau para visualizar y comprender los datos de manera efectiva. El análisis se centra en identificar patrones, tendencias y oportunidades a través de diversos gráficos interactivos.
