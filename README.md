@@ -1,60 +1,32 @@
-[Brewdog logo](https://github.com/ClaraGallardo/Visualitation_project/blob/main/image/BREWDOG-LOGO.png)
+# Análisis Anual de Ventas - Proyecto Tableau
 
-## 🍻 Descripción del Proyecto 🍻
+## Descripción del Proyecto
 
-Este proyecto utiliza datos sobre fabricación, recetas, ingredientes y maridajes de cervezas de una compañía, extraídos de un conjunto de datos de Kaggle. El objetivo es analizar y visualizar diversas características de las cervezas para proporcionar información valiosa sobre la oferta de productos de la compañía.
+Este proyecto tiene como objetivo realizar un análisis de las ventas anuales de una empresa, utilizando la plataforma Tableau para visualizar y comprender los datos de manera efectiva. El análisis se centra en identificar patrones, tendencias y oportunidades a través de diversos gráficos interactivos.
 
-## Conjunto de Datos
+Información General
+Periodo de Análisis: [2014-2017]
+Empresa: [Makro Wholesale]
 
-El conjunto de datos utilizado en este proyecto se puede encontrar en Kaggle ,Beer Brewing Formulas and Recipes Dataset🍺🧪(https://www.kaggle.com/datasets/shivd24coder/beer-brewing-formulas-and-recipes-dataset).
+(https://prod-uk-a.online.tableau.com/#/site/ironhack/workbooks/557467?:origin=card_share_link)
 
+## Contenido del Proyecto
 
-Descripcion de columnas:
-
-1. 'id': Un identificador único para cada registro de cerveza.
-
-2. 'name': El nombre de la cerveza.
-
-3. 'tagline': Una breve frase o lema asociado con la cerveza, a menudo utilizado con fines de marketing.
-
-4. 'first_brewed': La fecha de la primera elaboración de la cerveza.
-
-5. 'description': Una descripción detallada de la cerveza, que puede incluir información sobre su sabor, aroma, ingredientes, etc.
-
-6. 'image_url': La URL de una imagen asociada con la cerveza.
-
-7. 'abv': El contenido de alcohol por volumen de la cerveza, expresado como un porcentaje.
-
-8. 'ibu': Unidad Internacional de Amargor (International Bitterness Units), que mide la amargura de la cerveza.
-
-9. 'target_fg': La gravedad final objetivo de la cerveza.
-
-10. 'target_og': La gravedad original objetivo de la cerveza.
-
-11. 'ebc': El índice de color de la cerveza en el sistema EBC (European Brewery Convention).
-
-12. 'srm': El índice de color de la cerveza en el sistema SRM (Standard Reference Method).
-
-13. 'ph': El nivel de pH de la cerveza.
-
-14. 'attenuation_level': Nivel de atenuación de la cerveza.
-
-15. 'volume': Información sobre el volumen de la cerveza.
-
-16. 'boil_volume': Información sobre el volumen durante la ebullición.
-
-17. 'method': Detalles sobre el método de elaboración de la cerveza.
-
-18. 'ingredients': Ingredientes utilizados en la fabricación de la cerveza.
-
-19. 'food_pairing': Sugerencias de alimentos que se pueden emparejar con la cerveza.
-
-20. 'brewers_tips': Consejos o sugerencias del cervecero sobre la elaboración o el disfrute de la cerveza.
-
-21. 'contributed_by': Información sobre quién contribuyó con la información de la cerveza.
+1. Resumen General de Ventas
+Gráfico de Ventas Anuales: Visualización que muestra la evolución de las ventas a lo largo del año.
+2. Ventas por Categoría
+Gráfico de Ventas por Categoría: Desglose de las ventas según las categorías de productos. Permite identificar las categorías más y menos exitosas.
+3. Ventas por Tipo de Comprador
+Gráfico de Ventas por Tipo de Comprador: Analiza las ventas según el tipo de comprador. Proporciona insights sobre el comportamiento de diferentes segmentos de clientes.
+4. Detalle de Ventas
+Acceso al Detalle de Ventas: Se incluye un enlace interactivo para acceder al detalle completo de todas las transacciones realizadas, permitiendo un análisis detallado de cada venta.
+5. Rendimiento de Vendedores
+Gráfico de Rendimiento de Vendedores: Identifica y compara el desempeño de los vendedores a lo largo del año. Permite reconocer a los vendedores más exitosos.
 
 
-## Visualizaciones de Tableau
+Notas Técnicas
+El proyecto fue desarrollado utilizando Tableau, lo que permite una exploración interactiva de los datos.
+Se recomienda la utilización de filtros interactivos para un análisis más específico.
 
-[Enlace a la visualización en Tableau y breve descripción]
+Este README proporciona una visión general del proyecto de análisis de ventas anuales en Tableau. Para obtener información detallada y realizar análisis interactivos, se recomienda explorar la interfaz de Tableau directamente. ¡Disfrute del análisis y descubrimiento de insights valiosos para la empresa!
 
